@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="Text">0</string>
+    <string name="Nub_1">1</string>
+    <string name="Nub_2">2</string>
+    <string name="Nub_3">3</string>
+    <string name="Nub_4">4</string>
+    <string name="Nub_5">5</string>
+    <string name="Nub_6">6</string>
+    <string name="Nub_7">7</string>
+    <string name="Nub_8">8</string>
+    <string name="Nub_9">9</string>
+    <string name="Nub_0">0</string>
+    <string name="ADD">+</string>
+    <string name="MINUS">-</string>
+    <string name="MULTIPLY">*</string>
+    <string name="DIVIDES">/</string>
+    <string name="Point">.</string>
+    <string name="Equal">=</string>
+    <string name="Baifen">%</string>
+
 </resources>
